@@ -38,7 +38,7 @@ public class testing {
 
     
         }
-        System.out.println( "The Max interations happens with " + place + " it has " + max + " iterations.");
+        System.out.println( "The Max interations happens with " + max + " it has " + place + " iterations.");
 
     }
         
